@@ -1,5 +1,5 @@
 # AssemblyCraft
-Author: Austin Xu
+**Author:** Austin Xu
 
 In this game, your goal is to reach the door by shooting zombies with a bow and dodging arrows from the skeleton. 
 
