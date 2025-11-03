@@ -3,7 +3,7 @@
 # CSCB58 Winter 2025 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Austin Xu, 1008011688, xuausti1, austin.xu@mail.utoronto.ca
+# Student: Austin Xu, Primary Email (xaustin03@gmail.com), Uoft Email (austin.xu@mail.utoronto.ca)
 
 # # Bitmap Display Configuration:
 # - Unit width in pixels: 8 (update this as needed)
@@ -25,9 +25,6 @@
 # # Link to video demonstration for final submission:
 # - YouTube: https://www.youtube.com/watch?v=Gq31JKrmLyI
 # - If the YouTube link doesn't work, here is the Google Drive link: https://drive.google.com/file/d/1QKyTM6myJw0nUvcN_IWg5r2pAeg5JGeS/view?usp=sharing
-#
-# # Are you OK with us sharing the video with people outside course staff?
-# - no
 #
 # # Any additional information that the TA needs to know:
 # - Instructions, tap to move:
