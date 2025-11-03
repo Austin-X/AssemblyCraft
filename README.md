@@ -16,4 +16,4 @@ This game can be played by downloading the `game.asm` file and loading it up in 
 
 
 # Demo of Game
-If you want to see a demo of this game, see this YouTube video: https://www.youtube.com/watch?v=Gq31JKrmLyI
+If you want to see a demo of this game, see this YouTube video: https://youtu.be/Gq31JKrmLyI
