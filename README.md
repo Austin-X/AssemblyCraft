@@ -1,9 +1,9 @@
 # AssemblyCraft
 Author: Austin Xu
 
-In this game, your goal is to reach the door by shooting zombies with a bow and arrow and dodging arrows from the skeleton. 
+In this game, your goal is to reach the door by shooting zombies with a bow and dodging arrows from the skeleton. 
 
-This game can be played by downloading the `game.asm` file and loading it up in an assembly-friendly IDE such as the `MARS` IDE.
+This game can be played by downloading the `game.asm` file and loading it up in the `MARS` IDE.
 
 # Preview of game
 <img width="175" height="175" alt="image" src="https://github.com/user-attachments/assets/ce13ab83-9f78-4c98-834c-4e9169a08370" />
